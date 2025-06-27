@@ -1,0 +1,27 @@
+{
+  "name": "memory-game",
+  "version": "1.0.0",
+  "description": "Juego sencillo para evaluación continua",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ruthchapas/memory-game.git"
+  },
+  "keywords": [
+    "docker",
+    "npm",
+    "node"
+  ],
+  "author": "Ruth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ruthchapas/memory-game/issues"
+  },
+  "homepage": "https://github.com/Ruthchapas/memory-game#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
